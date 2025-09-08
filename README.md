@@ -1,4 +1,4 @@
-# 🌐 M1S0 | Web3 Website Security Research  
+# 🌐 M1S0 | Web3 Website Security Researcher
 
 ---
 
