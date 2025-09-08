@@ -2,9 +2,9 @@
 
 ---
 
-## 🧠 About Me  
-I am a security researcher specializing in **Web3 application and dApp security**, with a focus on **API integrations, frontend logic, authentication flows, and ecosystem attack surfaces**.  
-I bring experience from bug bounty programs and vulnerability research to deliver **practical findings and validated security reports**.  
+## 🧑‍💻 About Me
+For full background, skills, and experience, please visit my **[Main Portfolio Profile](https://github.com/M1S0-0)**.  
+This repository focuses only on my work and achievements in **Web3**.
 
 I am currently open for **freelance collaborations** and **contract-based engagements**.  
 📩 For inquiries, please use the contact links below.  
