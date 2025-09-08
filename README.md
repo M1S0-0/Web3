@@ -23,7 +23,7 @@ I am currently open for **freelance collaborations** and **contract-based engage
 ## 📊 Summary Stats
 <!-- Update these numbers as you go -->
 <p>
-  <img src="https://img.shields.io/badge/Reports-3-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Reports-1-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Public-1-0ea5e9?style=flat-square" />
   <img src="https://img.shields.io/badge/Private-0-64748b?style=flat-square" />
   <img src="https://img.shields.io/badge/Critical%2FHigh-1-red?style=flat-square" />
@@ -35,7 +35,7 @@ I am currently open for **freelance collaborations** and **contract-based engage
 
 | Rank | Company | Description  | Findings | Status | Reports |
 |------|---------|-------------|----------|--------|----------|
-| 1 | <img src="logo.png" alt="" width="15"/> [Binance](https://dell.com/) | Ecommerce  | ![C/H:1](https://img.shields.io/badge/C/H-1-red) ![M:1](https://img.shields.io/badge/M-1-orange) ![L/I:0](https://img.shields.io/badge/L/I-1-gray) | Fixed ✅ | Reports|
+| 1 | <img src="https://imgs.search.brave.com/DI6Ius803SgOVkT3ZR7z6N15t_MxPt3bvsSefw63chM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc2Vla2xvZ28u/Y29tL2xvZ28tcG5n/LzYxLzIvYmluYW5j/ZS12ZXJ0aWNhbC1s/b2dvLXBuZ19zZWVr/bG9nby02MTk4MTQu/cG5n" alt="Binance" width="15"/> [Binance](https://www.binance.com/) | Crypto  | ![C/H:1](https://img.shields.io/badge/C/H-0-red) ![M:1](https://img.shields.io/badge/M-1-orange) ![L/I:0](https://img.shields.io/badge/L/I-0-gray) | Fixed ✅ | Reports|
 
 
 ---
