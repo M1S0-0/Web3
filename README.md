@@ -23,8 +23,8 @@ I am currently open for **freelance collaborations** and **contract-based engage
 ## 📊 Summary Stats
 <!-- Update these numbers as you go -->
 <p>
-  <img src="https://img.shields.io/badge/Reports-11-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Public-6-0ea5e9?style=flat-square" />
+  <img src="https://img.shields.io/badge/Reports-12-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Public-7-0ea5e9?style=flat-square" />
   <img src="https://img.shields.io/badge/Private-0-64748b?style=flat-square" />
   <img src="https://img.shields.io/badge/Critical%2FHigh-3-red?style=flat-square" />
 </p>
@@ -33,14 +33,15 @@ I am currently open for **freelance collaborations** and **contract-based engage
 
 ## 🐞 Web3 Website Findings  
 
-| Rank | Company | Description  | Findings | Status | Reports |
-|------|---------|-------------|----------|--------|----------|
-| 3 | <img src="https://imgs.search.brave.com/Sc7TzOEYo5He3YUl678ZyiARkCEqnizSYE6fp8dSw8w/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9kZXYt/c3RhdGljLmNvaW5k/ZXBvLmlvL2ltYWdl/cy9sb2dvLWJsdWUu/c3Zn" alt="Coindepo" width="15"/> [Coindepo](https://coindepo.com/) |  centralized crypto-earning platform  | ![C/H:1](https://img.shields.io/badge/C/H-1-red) ![M:1](https://img.shields.io/badge/M-2-orange) ![L/I:0](https://img.shields.io/badge/L/I-1-gray) | Fixed ✅ | Reports|
-| 4 | <img src="https://dashboard.hackenproof.com/uploads/bounty_program/logo/66a3a6fab77695000a81f2cb/logo.png" alt="LAYER3" width="15"/> [LAYER3](https://layer3.xyz/) | Incentive Infrastructure  | ![C/H:1](https://img.shields.io/badge/C/H-0-red) ![M:1](https://img.shields.io/badge/M-1-orange) ![L/I:0](https://img.shields.io/badge/L/I-0-gray) | Fixed ✅ | Reports|
-| 8 | <img src="https://dashboard.hackenproof.com/uploads/company/avatar/6891a6c340041c6a8d942a54/avatar.png" alt="Rtree Finance" width="15"/> [Rtree Finance](https://www.rtreefinance.com/) | Finance Web  | ![C/H:1](https://img.shields.io/badge/C/H-2-red) ![M:1](https://img.shields.io/badge/M-0-orange) ![L/I:0](https://img.shields.io/badge/L/I-1-gray) | Fixed ✅ | Reports|
-| Ack | <img src="https://imgs.search.brave.com/DI6Ius803SgOVkT3ZR7z6N15t_MxPt3bvsSefw63chM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc2Vla2xvZ28u/Y29tL2xvZ28tcG5n/LzYxLzIvYmluYW5j/ZS12ZXJ0aWNhbC1s/b2dvLXBuZ19zZWVr/bG9nby02MTk4MTQu/cG5n" alt="Binance" width="15"/> [Binance](https://www.binance.com/) | Crypto  | ![C/H:1](https://img.shields.io/badge/C/H-0-red) ![M:1](https://img.shields.io/badge/M-1-orange) ![L/I:0](https://img.shields.io/badge/L/I-0-gray) | Fixed ✅ | Reports|
-| Ack | <img src="https://dashboard.hackenproof.com/uploads/bounty_program/logo/67d2eb1e40041c000aa5014a/logo.png" alt="GMGN AI" width="15"/> [GMGN AI](https://gmgn.ai/) | Crypto  | ![C/H:1](https://img.shields.io/badge/C/H-0-red) ![M:1](https://img.shields.io/badge/M-0-orange) ![L/I:0](https://img.shields.io/badge/L/I-1-gray) | Fixed ✅ | Reports|
-| Ack | <img src="https://dashboard.hackenproof.com/uploads/bounty_program/logo/679d449540041c00017fc166/logo.png?timestamp=1748004857" alt="LeveX Web & Mobile" width="15"/> [LeveX Web & Mobile](https://gmgn.ai/) | Crypto  | ![C/H:0](https://img.shields.io/badge/C/H-0-red) ![M:0](https://img.shields.io/badge/M-0-orange) ![L/I:1](https://img.shields.io/badge/L/I-1-gray) | Fixed ✅ | Reports|
+ Company | Description  | Findings | Status | Reports |
+---------|-------------|----------|--------|----------|
+| <img src="https://imgs.search.brave.com/Sc7TzOEYo5He3YUl678ZyiARkCEqnizSYE6fp8dSw8w/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9kZXYt/c3RhdGljLmNvaW5k/ZXBvLmlvL2ltYWdl/cy9sb2dvLWJsdWUu/c3Zn" alt="Coindepo" width="15"/> [Coindepo](https://coindepo.com/) |  centralized crypto-earning platform  | ![C/H:1](https://img.shields.io/badge/C/H-1-red) ![M:1](https://img.shields.io/badge/M-2-orange) ![L/I:0](https://img.shields.io/badge/L/I-1-gray) | Fixed ✅ | Reports|
+ | <img src="https://dashboard.hackenproof.com/uploads/bounty_program/logo/66a3a6fab77695000a81f2cb/logo.png" alt="LAYER3" width="15"/> [LAYER3](https://layer3.xyz/) | Incentive Infrastructure  | ![C/H:1](https://img.shields.io/badge/C/H-0-red) ![M:1](https://img.shields.io/badge/M-1-orange) ![L/I:0](https://img.shields.io/badge/L/I-0-gray) | Fixed ✅ | Reports|
+ | <img src="https://dashboard.hackenproof.com/uploads/company/avatar/6891a6c340041c6a8d942a54/avatar.png" alt="Rtree Finance" width="15"/> [Rtree Finance](https://www.rtreefinance.com/) | Finance Web  | ![C/H:1](https://img.shields.io/badge/C/H-2-red) ![M:1](https://img.shields.io/badge/M-0-orange) ![L/I:0](https://img.shields.io/badge/L/I-1-gray) | Fixed ✅ | Reports|
+| <img src="https://imgs.search.brave.com/DI6Ius803SgOVkT3ZR7z6N15t_MxPt3bvsSefw63chM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc2Vla2xvZ28u/Y29tL2xvZ28tcG5n/LzYxLzIvYmluYW5j/ZS12ZXJ0aWNhbC1s/b2dvLXBuZ19zZWVr/bG9nby02MTk4MTQu/cG5n" alt="Binance" width="15"/> [Binance](https://www.binance.com/) | Crypto  | ![C/H:1](https://img.shields.io/badge/C/H-0-red) ![M:1](https://img.shields.io/badge/M-1-orange) ![L/I:0](https://img.shields.io/badge/L/I-0-gray) | Fixed ✅ | Reports|
+| <img src="https://dashboard.hackenproof.com/uploads/bounty_program/logo/67d2eb1e40041c000aa5014a/logo.png" alt="GMGN AI" width="15"/> [GMGN AI](https://gmgn.ai/) | Crypto  | ![C/H:1](https://img.shields.io/badge/C/H-0-red) ![M:1](https://img.shields.io/badge/M-0-orange) ![L/I:0](https://img.shields.io/badge/L/I-1-gray) | Fixed ✅ | Reports|
+| <img src="https://dashboard.hackenproof.com/uploads/bounty_program/logo/679d449540041c00017fc166/logo.png?timestamp=1748004857" alt="LeveX Web & Mobile" width="15"/> [LeveX Web & Mobile](https://gmgn.ai/) | Crypto  | ![C/H:0](https://img.shields.io/badge/C/H-0-red) ![M:0](https://img.shields.io/badge/M-0-orange) ![L/I:1](https://img.shields.io/badge/L/I-1-gray) | Fixed ✅ | Reports|
+| <img src="https://logos.bugcrowdusercontent.com/logos/c38b/210f/57cf8a68/92facdeae919825d54182cef909553a6_Ship.jpg" alt="OpenSea" width="15"/> [OpenSea](https://opensea.io/) | Crypto  | ![C/H:0](https://img.shields.io/badge/C/H-0-red) ![M:0](https://img.shields.io/badge/M-0-orange) ![L/I:1](https://img.shields.io/badge/L/I-1-gray) | Fixed ✅ | Reports|
 
 
 ---
@@ -66,6 +67,10 @@ I am currently open for **freelance collaborations** and **contract-based engage
    </a>&nbsp;&nbsp;
       <a href="https://levex.com" title="LeveX Web & Mobile">
     <img src="https://dashboard.hackenproof.com/uploads/bounty_program/logo/679d449540041c00017fc166/logo.png?timestamp=1748004857" alt="LeveX Web & Mobile" height="50" />
+  </a>&nbsp;&nbsp;
+    </a>&nbsp;&nbsp;
+      <a href="https://opensea.io/" title="OpenSea">
+    <img src="https://logos.bugcrowdusercontent.com/logos/c38b/210f/57cf8a68/92facdeae919825d54182cef909553a6_Ship.jpg" alt="OpenSea" height="50" />
   </a>&nbsp;&nbsp;
 </p>
 
